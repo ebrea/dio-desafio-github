@@ -4,4 +4,3 @@ Repositório criado para o Desafio do Projeto
 ## Links Úteis
 [Sintaxe Básica dos arquivos Markdown](https://www.markdownguide.org/basic-syntax/)
 
-Baixe o arquivo Procedimento.docx para ver o procedimento.
