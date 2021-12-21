@@ -1,0 +1,10 @@
+Bom dia
+
+O Github realmente é algo bem interessante. Estou começando a explorar seus recursos. 
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Um resumo das aulas está no aquivo Procedimento.docx. Você pode baixar para ver as explicações
+e até melhorar o mesmo com suas observações.
+
+Att.
+Eber
