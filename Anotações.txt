@@ -1,6 +1,0 @@
-
-O Github realmente é algo bem interessante. 
-Estou começando a explorar seus recursos. Quero colocar os softwares que desnvolvi aqui e 
-verificar a possibilidade de hospedar um pequeno site que criei.
-
-O Git Bash é um terminal extendido pata otimizar o uso do Git.
